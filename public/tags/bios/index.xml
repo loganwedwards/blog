@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bios on Hugo Cactus Theme</title>
+    <link>http://localhost:1313/tags/bios/</link>
+    <description>Recent content in Bios on Hugo Cactus Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bios/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Reset a PC’s Master Password</title>
+      <link>http://localhost:1313/2012/12/how-to-reset-a-pcs-master-password/</link>
+      <pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2012/12/how-to-reset-a-pcs-master-password/</guid>
+      <description>&lt;p&gt;I inherited a &lt;em&gt;broken&lt;/em&gt; PC, a Toshiba Satellite M305D, from family. The machine is only a few years old and still functions fine. The problem was that a password was being required after the BIOS loaded (before Windows Vista). I did not have a rescue disk and the pc would not boot off of a Windows or Live Ubuntu disk (CD or USB). I followed trails around the internet to reset the password and found that by pulling the CMOS battery off of the motherboard would reset the passworld&amp;#8230; and reset it did!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s the steps that I took to reset the master password:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Remove the battery and case components.&lt;/li&gt;
+&lt;li&gt;Remove the hard drive (and RAM, possibly)&lt;/li&gt;
+&lt;li&gt;Remove the screws from the bottom side of the laptop&lt;/li&gt;
+&lt;li&gt;Remove a small cover on the north side of the keyboard. Remove the respective screws and detach the ribbon cable from the motherboard.&lt;/li&gt;
+&lt;li&gt;Remove the battery. ON this machine, it looked like a sealed disk with 2 leads which attached to the motherboard via plug.&lt;/li&gt;
+&lt;li&gt;Due to time, I waited till the next day to plug the battery back in, but 30 minutes is a good recommendation.&lt;/li&gt;
+&lt;li&gt;Re assemble pc.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;At this point I had already formatted the hard drive since I was planning on installing Ubuntu on it. Plug in a bootable drive (make sure the BIOS boot order has USB or CDROM appear before the HDD). It worked like a charm and I wrote this post on a rescued machine destined for the trash&amp;#8230;or recycling center.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

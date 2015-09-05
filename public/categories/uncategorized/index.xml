@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Hugo Cactus Theme</title>
+    <link>http://localhost:1313/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Hugo Cactus Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Desk Clock</title>
+      <link>http://localhost:1313/2012/02/desk-clock/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2012/02/desk-clock/</guid>
+      <description>&lt;p&gt;I use SolidWorks at my workplace for 3D modeling. It is intuitive, powerful and extremely expensive. I can&amp;#8217;t quite justify the use of a multi-thousand dollar license for personal use. Hence, I&amp;rsquo;ve used Google SketchUp for hobby modeling. One day, I may spring for the professional version, and at $500, it is a steal compared to a basic seat of SolidWorks. From time to time, I will share some of my designs.&lt;/p&gt;
+
+&lt;p&gt;Here is desk clock that I modeled:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/02/alarm-clock1.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I opted for an aluminum finish with a basic monochrome LCD display projecting on a glass surface. For a minimalist appearance, I chose to use two buttons, one for the hour and the other for minutes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
