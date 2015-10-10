@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stuff on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/categories/stuff/</link>
+    <link>http://localhost:1313/blog/categories/stuff/</link>
     <description>Recent content in Stuff on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/stuff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/stuff/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3D Printing Caps</title>
-      <link>http://localhost:1313/2015/05/3d-printing-caps/</link>
+      <link>http://localhost:1313/blog/2015/05/3d-printing-caps/</link>
       <pubDate>Sat, 09 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/05/3d-printing-caps/</guid>
+      <guid>http://localhost:1313/blog/2015/05/3d-printing-caps/</guid>
       <description>&lt;div&gt;
   I love how a 3d printer (or more accurately any rapid prototyper) can enable the production of a physical widget from a digital model in no time at all.
 &lt;/div&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>How To Auto Mount a Network Share (Drobo 5N) on Ubuntu</title>
-      <link>http://localhost:1313/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</link>
+      <link>http://localhost:1313/blog/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</guid>
+      <guid>http://localhost:1313/blog/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</guid>
       <description>&lt;p&gt;Fed up with the performance limitations of running Plex Media Server, or PMS, (which I really love) on our Drobo 5N, I decided (with my wife&amp;#8217;s scrupulous approval) to build a dedicated PMS box to handle future 1080p streams. Being that the Drobo is still highly capable as a media server in general, I&amp;#8217;m keeping all of our media there and will just use that to serve content to the new PMS box. I have a small amount of experience with Linux, but this gave me an opportunity to dive into it a bit more, while being able to enjoy movies on the big screen.&lt;/p&gt;
 
 &lt;p&gt;The main hurdle I ran into is mounting a network share. Mac OSX and Windows really makes this stupid easy, but in Ubuntu, there is some config needed to have the server ready to serve (forgive the pun) when the computer boots up.&lt;/p&gt;
@@ -89,10 +89,10 @@
     
     <item>
       <title>Sugru hack: An Auxiliary Cord Holder.</title>
-      <link>http://localhost:1313/2014/06/sugru-hack-an-auxiliary-cord-holder/</link>
+      <link>http://localhost:1313/blog/2014/06/sugru-hack-an-auxiliary-cord-holder/</link>
       <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2014/06/sugru-hack-an-auxiliary-cord-holder/</guid>
+      <guid>http://localhost:1313/blog/2014/06/sugru-hack-an-auxiliary-cord-holder/</guid>
       <description>&lt;p&gt;Sugru is an interesting piece of &lt;em&gt;tech&lt;/em&gt;. I give away packs to friends and coworkers in hopes that they&amp;#8217;ll find interesting uses for the stuff as I have. Here, I solved a nagging problem that I have in the car. When I finish listening to music via the auxiliary jack, I tend to drop it on the floor. This solution ensures that I do not have to dig around for the cable the next time I want to enjoy some tunes in the car.&lt;/p&gt;
 
 &lt;div&gt;
@@ -107,37 +107,37 @@
     
     <item>
       <title>The Importance of Convergence</title>
-      <link>http://localhost:1313/2013/05/the-importance-of-convergence/</link>
+      <link>http://localhost:1313/blog/2013/05/the-importance-of-convergence/</link>
       <pubDate>Fri, 10 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2013/05/the-importance-of-convergence/</guid>
+      <guid>http://localhost:1313/blog/2013/05/the-importance-of-convergence/</guid>
       <description>&lt;p&gt;I&amp;#8217;m sure that you&amp;#8217;ve heard of silos. No, not the kind that house &lt;a href=&#34;http://en.wikipedia.org/wiki/Intercontinental_ballistic_missile&#34; title=&#34;ICBMs&#34;&gt;ICBMs&lt;/a&gt;, but the idea of compartmentalizing different groups/specialties to work independently. Partly due to the company&amp;#8217;s culture and and the industry that I used to work in (nuclear energy), there is this idea that you are only as qualified as the title or degree that you hold. I can&amp;#8217;t change a sensor without having my hand held. It&amp;#8217;s bull and I don&amp;#8217;t buy it. I am a mechanical engineer by degree. I also: code, understand sparks in wires, know too many technical computer terms, know the 180° shutter rule and keyframing, play the guitar, design &lt;a href=&#34;http://chocolateandcarrots.com&#34;&gt;websites&lt;/a&gt;, understand the difference between a slab and serif typeface and know how to cook. The point is that no one person, in my opinion, should be defined by their title, degree or singular skill. I&amp;#8217;m currently pursuing a master&amp;#8217;s degree in computer science. Why? I love to learn, I&amp;#8217;m a geek and would love to find a meaningful way to find a convergence point between the physical and the abstract worlds. Maybe I will continue to design automation equipment and find a way to program &lt;a href=&#34;http://en.wikipedia.org/wiki/Programmable_logic_controller&#34; title=&#34;PLCs&#34;&gt;PLCs&lt;/a&gt; and microcontrollers. Maybe I will help develop software that takes advantage of some hardware component (&lt;a href=&#34;http://en.wikipedia.org/wiki/Internet_of_Things&#34; title=&#34;internet of things&#34;&gt;internet of things&lt;/a&gt; comes to mind). Maybe I could be a Mythbusters host! It doesn&amp;#8217;t matter. Breadth of understanding in more important than depth. Naïve or common knowledge can lead to a deeper understanding.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Very Temporary Raspberry Pi Case</title>
-      <link>http://localhost:1313/2012/12/a-very-temporary-raspberry-pi-case-lecreate/</link>
+      <link>http://localhost:1313/blog/2012/12/a-very-temporary-raspberry-pi-case-lecreate/</link>
       <pubDate>Sat, 08 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/12/a-very-temporary-raspberry-pi-case-lecreate/</guid>
+      <guid>http://localhost:1313/blog/2012/12/a-very-temporary-raspberry-pi-case-lecreate/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e15/11249488_1660538884175536_1164254936_n.jpg&#34; alt=&#34;case&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Micro Adjustment on Canon 7D</title>
-      <link>http://localhost:1313/2012/06/micro-adjustment-on-canon-7d/</link>
+      <link>http://localhost:1313/blog/2012/06/micro-adjustment-on-canon-7d/</link>
       <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/06/micro-adjustment-on-canon-7d/</guid>
+      <guid>http://localhost:1313/blog/2012/06/micro-adjustment-on-canon-7d/</guid>
       <description>&lt;p&gt;Until recently, we had a great lens for the 7D: the Canon 50mm f/1.4 USM lens. My wife and I bought this lens with a 7D body to start out our kit. She loves the focal length for her food photography, which you can see over at &lt;a href=&#34;http://chocolateandcarrots.com/blog&#34;&gt;Chocolate &amp;amp; Carrots&lt;/a&gt;. When we first started to use the lens, we were a bit bummed on the sharpness results. Knowing that our camera (along with other professional cameras in Canon&amp;#8217;s lineup) has a lens micro adjustment feature, I decided to give it a spin. Wow, what a difference in sharpness. I set the camera on a tripod a few feet away from the subject (can&amp;#8217;t remember the exposure settings) and snapped a few shots at different adjustment factors. You can search for the details on how this works elsewhere; I just wanted to share the results.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/06/plus5crop.jpg&#34; alt=&#34;Before Adjustment&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/06/plus5crop.jpg&#34; alt=&#34;Before Adjustment&#34; /&gt;
 Before adjustment
 &lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/06/plus12crop.jpg&#34; alt=&#34;After Adjustment&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/06/plus12crop.jpg&#34; alt=&#34;After Adjustment&#34; /&gt;
 After adjustment
 &lt;/div&gt;&lt;/p&gt;
 
@@ -151,24 +151,24 @@ After adjustment
     
     <item>
       <title>Transferring Domains with Google Apps and GoDaddy</title>
-      <link>http://localhost:1313/2012/05/transferring-domains-with-google-apps-and-godaddy/</link>
+      <link>http://localhost:1313/blog/2012/05/transferring-domains-with-google-apps-and-godaddy/</link>
       <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/05/transferring-domains-with-google-apps-and-godaddy/</guid>
+      <guid>http://localhost:1313/blog/2012/05/transferring-domains-with-google-apps-and-godaddy/</guid>
       <description>&lt;p&gt;A lengthy title, I know, but being that I just went through this process, I felt it was good to let others know of the steps before I purge them from my memory.&lt;/p&gt;
 
 &lt;p&gt;For a personal reason, I decided to transfer my domain from GoDaddy to my current host. The process of transferring domain names is not truly simple (as it can differ from registrar to registrar), but these are the general steps that I took to transfer the domain from GoDaddy to Bluehost, my current host (and new registrar):&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Sign in to Google Apps and click on the &amp;#8220;Domain Settings&amp;#8221; tab. From there, go to &amp;#8220;Domain Names&amp;#8221; and follow the link for &amp;#8220;Advanced DNS settings.&amp;#8221;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-7.06.34-PM.png&#34; alt=&#34;Google Apps Console&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-7.06.34-PM.png&#34; alt=&#34;Google Apps Console&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Login to the GoDaddy domain manager and unlock your domain (you may see a lock icon).
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-7.05.48-PM.png&#34; alt=&#34;GoDaddy Domain Change&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-7.05.48-PM.png&#34; alt=&#34;GoDaddy Domain Change&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;While still logged into the GoDaddy domain manager, click on your domain. Under domain details, there is a link to send and _Authorization Code_ via email. You will also notice that under &amp;#8220;Domain Enhancements&amp;#8221; that _Privacy_ is set to on; it will need to be disabled, but will be performed later.&lt;/li&gt;
 &lt;li&gt;To disable privacy, login to domainsbyproxy.com. I don&amp;#8217;t recall ever receiving credentials for this site, so I just requested the password (which actually sends you the required username). Using the recovered username and the password from your Google Apps account found in step 1, select the domain and click the button to &amp;#8220;Cancel private registration.&amp;#8221;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-6.52.40-PM.png&#34; alt=&#34;domainsbyproxy pre login&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-6.55.06-PM.png&#34; alt=&#34;domainsbyproxy first step&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-6.55.56-PM.png&#34; alt=&#34;Domainsbyproxy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-6.52.40-PM.png&#34; alt=&#34;domainsbyproxy pre login&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-6.55.06-PM.png&#34; alt=&#34;domainsbyproxy first step&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-6.55.56-PM.png&#34; alt=&#34;Domainsbyproxy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Login to your Bluehost cPanel to transfer the domain to your new registrar. Follow the steps (providing the authorization codes, as needed). It may take some time, but this should be what is needed to successfully transfer your domain from GoDaddy to Bluehost.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -178,10 +178,10 @@ After adjustment
     
     <item>
       <title>My ‘Hello World’</title>
-      <link>http://localhost:1313/2012/01/my-hello-world/</link>
+      <link>http://localhost:1313/blog/2012/01/my-hello-world/</link>
       <pubDate>Sat, 21 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/01/my-hello-world/</guid>
+      <guid>http://localhost:1313/blog/2012/01/my-hello-world/</guid>
       <description>&lt;p&gt;This is the first post for Le Create, a site where I document projects, hacks and tips that I&amp;#8217;ve found to be useful. I share them for the purpose of aiding someone else who may have been in the same position. I have no vision as to what my focus will be, but I&amp;#8217;m sure that will develop down the road. My current foci will deal with home projects, programming, mechanical design, electrical projects and maybe some photography thrown in for fun.&lt;/p&gt;
 
 &lt;p&gt;The site name spawned from my initials (LE for Logan Edwards) and the desire to make, modify and create. I&amp;#8217;m interested in the physical, digital and abstract.&lt;/p&gt;

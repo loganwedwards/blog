@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/categories/web/</link>
+    <link>http://localhost:1313/blog/categories/web/</link>
     <description>Recent content in Web on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Helpful Plugins for Migrating WordPress from localhost to Production</title>
-      <link>http://localhost:1313/2014/03/helpful-plugins-for-migrating-wordpress-from-localhost-to-production/</link>
+      <link>http://localhost:1313/blog/2014/03/helpful-plugins-for-migrating-wordpress-from-localhost-to-production/</link>
       <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2014/03/helpful-plugins-for-migrating-wordpress-from-localhost-to-production/</guid>
+      <guid>http://localhost:1313/blog/2014/03/helpful-plugins-for-migrating-wordpress-from-localhost-to-production/</guid>
       <description>&lt;p&gt;There are some tutorials available for migrating a local instance of WordPress to a live instance for the world to see. In my case, I was ready to deploy some local development to the host, but in my case, I was adding a new custom child theme based on twenty-thirteen (it&amp;#8217;s live at &lt;a href=&#34;http://chocolateandcarrots.com&#34; title=&#34;chocolateandcarrots.com&#34;&gt;chocolateandcarrots.com&lt;/a&gt;). I was pursuing the path of creating a brand new instance of WordPress using a new, clean database, but problems arose when trying to import the content, specifically the post&amp;#8217;s featured image. For some reason, the links would not update, even though everything was on the same server. I&amp;#8217;d like to share some of the plugins I used for a smooth transition from local development to production:&lt;/p&gt;
 
 &lt;ul&gt;

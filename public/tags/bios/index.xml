@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bios on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/bios/</link>
+    <link>http://localhost:1313/blog/tags/bios/</link>
     <description>Recent content in Bios on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Dec 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/bios/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to Reset a PC’s Master Password</title>
-      <link>http://localhost:1313/2012/12/how-to-reset-a-pcs-master-password/</link>
+      <link>http://localhost:1313/blog/2012/12/how-to-reset-a-pcs-master-password/</link>
       <pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/12/how-to-reset-a-pcs-master-password/</guid>
+      <guid>http://localhost:1313/blog/2012/12/how-to-reset-a-pcs-master-password/</guid>
       <description>&lt;p&gt;I inherited a &lt;em&gt;broken&lt;/em&gt; PC, a Toshiba Satellite M305D, from family. The machine is only a few years old and still functions fine. The problem was that a password was being required after the BIOS loaded (before Windows Vista). I did not have a rescue disk and the pc would not boot off of a Windows or Live Ubuntu disk (CD or USB). I followed trails around the internet to reset the password and found that by pulling the CMOS battery off of the motherboard would reset the passworld&amp;#8230; and reset it did!&lt;/p&gt;
 
 &lt;p&gt;Here&amp;#8217;s the steps that I took to reset the master password:&lt;/p&gt;

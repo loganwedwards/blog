@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drobo 5n on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/drobo-5n/</link>
+    <link>http://localhost:1313/blog/tags/drobo-5n/</link>
     <description>Recent content in Drobo 5n on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/drobo-5n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/drobo-5n/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How To Auto Mount a Network Share (Drobo 5N) on Ubuntu</title>
-      <link>http://localhost:1313/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</link>
+      <link>http://localhost:1313/blog/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</link>
       <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</guid>
+      <guid>http://localhost:1313/blog/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</guid>
       <description>&lt;p&gt;Fed up with the performance limitations of running Plex Media Server, or PMS, (which I really love) on our Drobo 5N, I decided (with my wife&amp;#8217;s scrupulous approval) to build a dedicated PMS box to handle future 1080p streams. Being that the Drobo is still highly capable as a media server in general, I&amp;#8217;m keeping all of our media there and will just use that to serve content to the new PMS box. I have a small amount of experience with Linux, but this gave me an opportunity to dive into it a bit more, while being able to enjoy movies on the big screen.&lt;/p&gt;
 
 &lt;p&gt;The main hurdle I ran into is mounting a network share. Mac OSX and Windows really makes this stupid easy, but in Ubuntu, there is some config needed to have the server ready to serve (forgive the pun) when the computer boots up.&lt;/p&gt;

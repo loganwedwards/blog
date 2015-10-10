@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Registrar on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/registrar/</link>
+    <link>http://localhost:1313/blog/tags/registrar/</link>
     <description>Recent content in Registrar on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 May 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/registrar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/registrar/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Transferring Domains with Google Apps and GoDaddy</title>
-      <link>http://localhost:1313/2012/05/transferring-domains-with-google-apps-and-godaddy/</link>
+      <link>http://localhost:1313/blog/2012/05/transferring-domains-with-google-apps-and-godaddy/</link>
       <pubDate>Sat, 05 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/05/transferring-domains-with-google-apps-and-godaddy/</guid>
+      <guid>http://localhost:1313/blog/2012/05/transferring-domains-with-google-apps-and-godaddy/</guid>
       <description>&lt;p&gt;A lengthy title, I know, but being that I just went through this process, I felt it was good to let others know of the steps before I purge them from my memory.&lt;/p&gt;
 
 &lt;p&gt;For a personal reason, I decided to transfer my domain from GoDaddy to my current host. The process of transferring domain names is not truly simple (as it can differ from registrar to registrar), but these are the general steps that I took to transfer the domain from GoDaddy to Bluehost, my current host (and new registrar):&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Sign in to Google Apps and click on the &amp;#8220;Domain Settings&amp;#8221; tab. From there, go to &amp;#8220;Domain Names&amp;#8221; and follow the link for &amp;#8220;Advanced DNS settings.&amp;#8221;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-7.06.34-PM.png&#34; alt=&#34;Google Apps Console&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-7.06.34-PM.png&#34; alt=&#34;Google Apps Console&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Login to the GoDaddy domain manager and unlock your domain (you may see a lock icon).
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-7.05.48-PM.png&#34; alt=&#34;GoDaddy Domain Change&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-7.05.48-PM.png&#34; alt=&#34;GoDaddy Domain Change&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;While still logged into the GoDaddy domain manager, click on your domain. Under domain details, there is a link to send and _Authorization Code_ via email. You will also notice that under &amp;#8220;Domain Enhancements&amp;#8221; that _Privacy_ is set to on; it will need to be disabled, but will be performed later.&lt;/li&gt;
 &lt;li&gt;To disable privacy, login to domainsbyproxy.com. I don&amp;#8217;t recall ever receiving credentials for this site, so I just requested the password (which actually sends you the required username). Using the recovered username and the password from your Google Apps account found in step 1, select the domain and click the button to &amp;#8220;Cancel private registration.&amp;#8221;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-6.52.40-PM.png&#34; alt=&#34;domainsbyproxy pre login&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-6.55.06-PM.png&#34; alt=&#34;domainsbyproxy first step&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2012/05/Screen-shot-2012-01-26-at-6.55.56-PM.png&#34; alt=&#34;Domainsbyproxy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-6.52.40-PM.png&#34; alt=&#34;domainsbyproxy pre login&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-6.55.06-PM.png&#34; alt=&#34;domainsbyproxy first step&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2012/05/Screen-shot-2012-01-26-at-6.55.56-PM.png&#34; alt=&#34;Domainsbyproxy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Login to your Bluehost cPanel to transfer the domain to your new registrar. Follow the steps (providing the authorization codes, as needed). It may take some time, but this should be what is needed to successfully transfer your domain from GoDaddy to Bluehost.&lt;/li&gt;
 &lt;/ol&gt;
 

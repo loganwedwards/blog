@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jquery on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/jquery/</link>
+    <link>http://localhost:1313/blog/tags/jquery/</link>
     <description>Recent content in Jquery on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Timer Web App</title>
-      <link>http://localhost:1313/2013/07/my-timer-web-app/</link>
+      <link>http://localhost:1313/blog/2013/07/my-timer-web-app/</link>
       <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2013/07/my-timer-web-app/</guid>
+      <guid>http://localhost:1313/blog/2013/07/my-timer-web-app/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/07/Clock-Promo-Med.jpg&#34; alt=&#34;Hero Image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/07/Clock-Promo-Med.jpg&#34; alt=&#34;Hero Image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I spent the weekend cooking up a &lt;a href=&#34;https://chrome.google.com/webstore/detail/timer/keajpdeigjicancnhaknebefgekooiof?hl=en-US&#34;&gt;web app&lt;/a&gt;. It&amp;#8217;s fairly simple. Three files serves up everything I need for a simple timer (a few more added so it could be published as a packaged app in the Chrome Web Store). I feel that I have followed the MVC design intent fairly well with a HTML file (for content organization), a CSS file (for beautification and some animation) and a Javascript file to handle the timer functionality. I learned quite a bit and the saying that I&amp;#8217;m used to at my day job still applies: nothing is rarely ever as simple as it seems. Let me explain. I had to figure out and overcome some default behaviors for styling as well as how to implement my own timing function. I&amp;#8217;m sure there is a library somewhere, but no better way to learn than to implement it yourself. I did find some great resources, which will be posted at the bottom.&lt;/p&gt;
 

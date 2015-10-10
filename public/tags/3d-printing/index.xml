@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3d Printing on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/3d-printing/</link>
+    <link>http://localhost:1313/blog/tags/3d-printing/</link>
     <description>Recent content in 3d Printing on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bracket and Stand for the iPad Mini</title>
-      <link>http://localhost:1313/2013/10/bracket-and-stand-for-the-ipad-mini/</link>
+      <link>http://localhost:1313/blog/2013/10/bracket-and-stand-for-the-ipad-mini/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2013/10/bracket-and-stand-for-the-ipad-mini/</guid>
+      <guid>http://localhost:1313/blog/2013/10/bracket-and-stand-for-the-ipad-mini/</guid>
       <description>
 
 &lt;p&gt;For my second project utilizing the 3d printer, a Solidoodle, I wanted to design something from the ground up to solve a problem: find a way to better secure the iPad Mini in the car to appease the baby&amp;#8217;s senses, i.e., keep the iPad hanging up so we can get his fill of &amp;#8216;Baby Einsteins&amp;#8217; on a long car trip.&lt;/p&gt;
@@ -23,9 +23,9 @@
 
 &lt;p&gt;The first design utilized corner clamps held together by pressing aluminum rods into blind holes. The objectives of this design were to minimize the material noticed by the user and be rigid. The aluminum rods also have the added benefit of attaching auxiliary parts anywhere along their length.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/10/Assem1-front-1024x560.jpg&#34; alt=&#34;Overview&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/Assem1-front-1024x560.jpg&#34; alt=&#34;Overview&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/10/Assem1-With-Hooks.jpg&#34; alt=&#34;1st iteration&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/Assem1-With-Hooks.jpg&#34; alt=&#34;1st iteration&#34; /&gt;
 1st design: corner brackets, aluminum rod and hooks&lt;/p&gt;
 
 &lt;p&gt;While the design was aesthetically pleasing from the front, I discovered two issues that made me rethink my strategy:&lt;/p&gt;
@@ -37,23 +37,23 @@
 
 &lt;p&gt;Here is the final print of the assembly. Sometimes you have to hold and interact with an object before iterating again.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/10/ipad-mini-1st-design.jpg&#34; alt=&#34;Final Print&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/ipad-mini-1st-design.jpg&#34; alt=&#34;Final Print&#34; /&gt;
 1st design: Final print&lt;/p&gt;
 
 &lt;h2 id=&#34;design-2-snap-on-bracket-with-kickstand:d560f0219f8513849d0b9b0c4bfb5c36&#34;&gt;Design 2: Snap-on Bracket with Kickstand&lt;/h2&gt;
 
 &lt;p&gt;Unhappy with the result of the first design, I took the suggestion from a colleague to just use a single piece to wrap around the edges. From there I tweaked the design to give a snug, but not overly tight (my wife may still disagree on this point) fit to the iPad. I reused some of the aluminum rod ordered for the first design and used it as a pin to attach the hook/kickstand part. After a few trials getting the Solidoodle to give me non-warping prints, which I&amp;#8217;ll cover another day (and tweaking the design by tenths of mm&amp;#8217;s), I finally had a good working solution. Below is a gallery of the CAD model, final product and some use cases.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/10/Assem2-2-Rear-1024x620.jpg&#34; alt=&#34;Rear 1&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2013/10/Assem2-2.jpg&#34; alt=&#34;Rear 2&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/Assem2-2-Rear-1024x620.jpg&#34; alt=&#34;Rear 1&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/Assem2-2.jpg&#34; alt=&#34;Rear 2&#34; /&gt;
 2nd design (rear): &amp;#8216;Unibody&amp;#8217; clamp with pivoting hook&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/10/20131009-iPad-Mini-Bracket-6-1024x757.jpg&#34; alt=&#34;Final - Hanging on Chair&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2013/10/20131009-iPad-Mini-Bracket-2-1024x682.jpg&#34; alt=&#34;Final - Standing Rear&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2013/10/20131009-iPad-Mini-Bracket-1024x682.jpg&#34; alt=&#34;Final - Standing&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/img/2013/10/20131009-iPad-Mini-Bracket-7-1024x510.jpg&#34; alt=&#34;Final - Hanging&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/20131009-iPad-Mini-Bracket-6-1024x757.jpg&#34; alt=&#34;Final - Hanging on Chair&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/20131009-iPad-Mini-Bracket-2-1024x682.jpg&#34; alt=&#34;Final - Standing Rear&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/20131009-iPad-Mini-Bracket-1024x682.jpg&#34; alt=&#34;Final - Standing&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/20131009-iPad-Mini-Bracket-7-1024x510.jpg&#34; alt=&#34;Final - Hanging&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/10/Liam-watching-the-iPad-Mini-4276.jpg&#34; alt=&#34;Final in Use&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/10/Liam-watching-the-iPad-Mini-4276.jpg&#34; alt=&#34;Final in Use&#34; /&gt;
 2nd Design: Shown using the kickstand&lt;/p&gt;
 
 &lt;p&gt;This was another great learning opportunity in:&lt;/p&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>Improving Solidoodle Prints</title>
-      <link>http://localhost:1313/2013/09/improving-solidoodle-prints/</link>
+      <link>http://localhost:1313/blog/2013/09/improving-solidoodle-prints/</link>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2013/09/improving-solidoodle-prints/</guid>
+      <guid>http://localhost:1313/blog/2013/09/improving-solidoodle-prints/</guid>
       <description>&lt;p&gt;When I begin to explain &lt;em&gt;3D printing&lt;/em&gt; to some of my colleagues, their jaw migrates to the agape position while:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -88,7 +88,7 @@
 
 &lt;p&gt;We have some warping problems (no, not the kind that Starship Enterprise did in the latest movie). See below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/09/3D-printer-stuff-2738.jpg&#34; alt=&#34;3d Parts&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/09/3D-printer-stuff-2738.jpg&#34; alt=&#34;3d Parts&#34; /&gt;
 Prints after various tweaks&lt;/p&gt;
 
 &lt;p&gt;Here are the steps I took between each print, until I finally was happy with the output:&lt;/p&gt;
@@ -119,11 +119,11 @@ Prints after various tweaks&lt;/p&gt;
     
     <item>
       <title>One Printer Fixes Another</title>
-      <link>http://localhost:1313/2013/09/one-printer-fixes-another/</link>
+      <link>http://localhost:1313/blog/2013/09/one-printer-fixes-another/</link>
       <pubDate>Mon, 16 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2013/09/one-printer-fixes-another/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/09/IMG_20130912_101018.jpg&#34; alt=&#34;3d print&#34; /&gt;
+      <guid>http://localhost:1313/blog/2013/09/one-printer-fixes-another/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/09/IMG_20130912_101018.jpg&#34; alt=&#34;3d print&#34; /&gt;
 Dymo label maker opened up with replacement lever partially installed
 Work recently had a cleanout day to get rid of clutter in our office area; a late spring-clean, if you will. I&amp;#8217;m always on the hunt for working (or not in this case) gadgets for spares or to re-purpose. I came across a Dymo 210D label maker. The electronics function just fine and there were quite a few extra unused cartridges as well. The only problem was that I kept getting a &lt;em&gt;tape jam&lt;/em&gt; error when trying to print. After reading through Dymo&amp;#8217;s troubleshooting literature, which had little value in this case, I disassembled the unit and found the culprit: a small section of a lever arm (for lack of a better term here) broke where a spring should be connected. Sounds suspect to me!&lt;/p&gt;
 
@@ -131,15 +131,15 @@ Work recently had a cleanout day to get rid of clutter in our office area; a lat
 
 &lt;p&gt;After the part was completed, I compared it with the original. By doing no tuning or adjustments on the 3d printer, I&amp;#8217;m pretty happy with the outcome. Of course, I had to print rafts to support the small overhang, so there are some squirrely print layers at that location and the inner holes came out about .020&amp;#8243; undersize, but overall, I&amp;#8217;m happy! I just had one issue: I modeled the part wrong. As an engineer, it&amp;#8217;s always important to validate your assumptions and double and triple check everything. Here&amp;#8217;s a good example of what happens when you don&amp;#8217;t.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/09/IMG_20130912_063640.jpg&#34; alt=&#34;Original&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/09/IMG_20130912_063640.jpg&#34; alt=&#34;Original&#34; /&gt;
 Image showing the original part and the prints&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/09/IMG_20130912_095550.jpg&#34; alt=&#34;Clean Up&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/09/IMG_20130912_095550.jpg&#34; alt=&#34;Clean Up&#34; /&gt;
 Drill bits were used to clean up the internal thru holes&lt;/p&gt;
 
 &lt;p&gt;After the quick fix and another 10 minute print, I was in business. I used some drill bits to clean up the internal holes and installed the part.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2013/09/IMG_20130912_143019.jpg&#34; alt=&#34;Working Unit&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2013/09/IMG_20130912_143019.jpg&#34; alt=&#34;Working Unit&#34; /&gt;
 The working unit!&lt;/p&gt;
 
 &lt;p&gt;I assembled the unit and voila! My new printer fixed an old one. It was a great experience with: fixing something, using a 3d printer, applying engineering to home use and learning how simple label makers are.&lt;/p&gt;

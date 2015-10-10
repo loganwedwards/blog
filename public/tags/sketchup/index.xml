@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketchup on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/sketchup/</link>
+    <link>http://localhost:1313/blog/tags/sketchup/</link>
     <description>Recent content in Sketchup on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sketchup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/sketchup/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Desk Clock Rendering</title>
-      <link>http://localhost:1313/2012/02/desk-clock-rendering/</link>
+      <link>http://localhost:1313/blog/2012/02/desk-clock-rendering/</link>
       <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/02/desk-clock-rendering/</guid>
+      <guid>http://localhost:1313/blog/2012/02/desk-clock-rendering/</guid>
       <description>&lt;p&gt;I was fascinated by a post by Google&amp;#8217;s SketchUp blog, which announced a contest based on rendering scenes with Maxwell rendering software. There are many free/paid solutions, but out of the few that I tried, the free version of Maxwell seems to offer the least amount of fuss as far as installation and setup. The full version is only $99, so it&amp;#8217;s a steal compared to some of the other professional solutions available. Here is my first attempt at rendering [this][1].&lt;/p&gt;
 
 &lt;p&gt;Disclaimer: I still have very little idea of what 90% of the settings are actually for. One day I plan to dig deep into the documentation to learn what I am actually manipulating.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/02/Alarm-Clock.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/02/Alarm-Clock.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Desk Clock</title>
-      <link>http://localhost:1313/2012/02/desk-clock/</link>
+      <link>http://localhost:1313/blog/2012/02/desk-clock/</link>
       <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/02/desk-clock/</guid>
+      <guid>http://localhost:1313/blog/2012/02/desk-clock/</guid>
       <description>&lt;p&gt;I use SolidWorks at my workplace for 3D modeling. It is intuitive, powerful and extremely expensive. I can&amp;#8217;t quite justify the use of a multi-thousand dollar license for personal use. Hence, I&amp;rsquo;ve used Google SketchUp for hobby modeling. One day, I may spring for the professional version, and at $500, it is a steal compared to a basic seat of SolidWorks. From time to time, I will share some of my designs.&lt;/p&gt;
 
 &lt;p&gt;Here is desk clock that I modeled:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/02/alarm-clock1.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/02/alarm-clock1.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I opted for an aluminum finish with a basic monochrome LCD display projecting on a glass surface. For a minimalist appearance, I chose to use two buttons, one for the hour and the other for minutes.&lt;/p&gt;
 </description>

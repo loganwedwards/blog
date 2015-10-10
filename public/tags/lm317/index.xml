@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lm317 on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/lm317/</link>
+    <link>http://localhost:1313/blog/tags/lm317/</link>
     <description>Recent content in Lm317 on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lm317/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/lm317/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to Build a Selectable Power Source [Part 1]</title>
-      <link>http://localhost:1313/2013/07/how-to-build-a-selectable-power-source-part-1/</link>
+      <link>http://localhost:1313/blog/2013/07/how-to-build-a-selectable-power-source-part-1/</link>
       <pubDate>Fri, 05 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2013/07/how-to-build-a-selectable-power-source-part-1/</guid>
+      <guid>http://localhost:1313/blog/2013/07/how-to-build-a-selectable-power-source-part-1/</guid>
       <description>&lt;p&gt;&lt;em&gt;Disclaimer: I am not an electrical engineer. Do this at your own risk!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I hate waste. In fact, the entire driver for this little project was because I can&amp;#8217;t stand to see batteries be needlessly consumed. Is there really a need for a motorized baby swing to run on AA&amp;#8217;s? I bet for 90% of its uses, it will be placed inside; most likely conveniently positioned right next to an outlet in a comfortable 73 degrees Fahrenheit.&lt;/p&gt;
@@ -24,7 +24,7 @@
 &lt;p&gt;The premise is simple: a switch to select one of two power sources: a battery pack or a wall plug.&lt;/p&gt;
 
 &lt;p&gt;Schematic
-&lt;img src=&#34;http://localhost:1313/img/2013/07/6v-voltage-regulator.png&#34; alt=&#34;Schematic&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/blog/img/2013/07/6v-voltage-regulator.png&#34; alt=&#34;Schematic&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;An image of a tested design will be shown in part 2.&lt;/p&gt;
 </description>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3d on Hugo Cactus Theme</title>
-    <link>http://localhost:1313/tags/3d/</link>
+    <link>http://localhost:1313/blog/tags/3d/</link>
     <description>Recent content in 3d on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tinkercad and Makerbot Chess Contest</title>
-      <link>http://localhost:1313/2012/03/tinkercad-and-makerbot-chess-contest/</link>
+      <link>http://localhost:1313/blog/2012/03/tinkercad-and-makerbot-chess-contest/</link>
       <pubDate>Fri, 23 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/03/tinkercad-and-makerbot-chess-contest/</guid>
+      <guid>http://localhost:1313/blog/2012/03/tinkercad-and-makerbot-chess-contest/</guid>
       <description>&lt;p&gt;A Makerbot is up for grabs to whoever wins over the judges in this contest to design a set of chess pieces. The contest details are &lt;a href=&#34;http://dev.tinkercad.com/blog/2012/3/19/design-a-chess-set-win-a-makerbot.html&#34;&gt;here&lt;/a&gt;. I follow the happenings at Tinkercad on my RSS reader and knew I had to enter. Tinkercad is a web-based, solid modeling computer aided design (CAD) application that has hookups with Thingiverse (for sharing your designs) and links to their own fabrication shop (so you can have your designs printed). Tinkercad also gives the option to download the files to print at home. Tinkercad is beautiful in the fact that it is simple to use, browser-based and encourages sharing. It has been fun watching how many other users have printed my design. If you want a Makerbot, go ahead and enter.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/03/Screen-shot-2012-03-22-at-6.50.15-PM.png&#34; alt=&#34;Modeling Environment&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/03/Screen-shot-2012-03-22-at-6.50.15-PM.png&#34; alt=&#34;Modeling Environment&#34; /&gt;
 View of the modeling environment.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/03/Screen-shot-2012-03-23-at-8.40.03-AM.png&#34; alt=&#34;Modeling Environment&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/03/Screen-shot-2012-03-23-at-8.40.03-AM.png&#34; alt=&#34;Modeling Environment&#34; /&gt;
   A 3D render of the final design
 &lt;/div&gt;&lt;/p&gt;
 </description>
@@ -28,15 +28,15 @@ View of the modeling environment.&lt;/p&gt;
     
     <item>
       <title>Desk Clock</title>
-      <link>http://localhost:1313/2012/02/desk-clock/</link>
+      <link>http://localhost:1313/blog/2012/02/desk-clock/</link>
       <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2012/02/desk-clock/</guid>
+      <guid>http://localhost:1313/blog/2012/02/desk-clock/</guid>
       <description>&lt;p&gt;I use SolidWorks at my workplace for 3D modeling. It is intuitive, powerful and extremely expensive. I can&amp;#8217;t quite justify the use of a multi-thousand dollar license for personal use. Hence, I&amp;rsquo;ve used Google SketchUp for hobby modeling. One day, I may spring for the professional version, and at $500, it is a steal compared to a basic seat of SolidWorks. From time to time, I will share some of my designs.&lt;/p&gt;
 
 &lt;p&gt;Here is desk clock that I modeled:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/2012/02/alarm-clock1.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/blog/img/2012/02/alarm-clock1.png&#34; alt=&#34;Desk Clock&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I opted for an aluminum finish with a basic monochrome LCD display projecting on a glass surface. For a minimalist appearance, I chose to use two buttons, one for the hour and the other for minutes.&lt;/p&gt;
 </description>

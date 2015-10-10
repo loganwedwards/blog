@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2015-08-09T16:27:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/wordpress-to-hugo/</loc>
+    <loc>http://localhost:1313/blog/post/wordpress-to-hugo/</loc>
     <lastmod>2015-08-09T16:27:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2015/05/angularjs-click-to-close-menu/</loc>
+    <loc>http://localhost:1313/blog/2015/05/angularjs-click-to-close-menu/</loc>
     <lastmod>2015-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2015/05/3d-printing-caps/</loc>
+    <loc>http://localhost:1313/blog/2015/05/3d-printing-caps/</loc>
     <lastmod>2015-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</loc>
+    <loc>http://localhost:1313/blog/2015/01/how-to-auto-mount-a-network-share-drobo-5n-on-ubuntu/</loc>
     <lastmod>2015-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2014/06/sugru-hack-an-auxiliary-cord-holder/</loc>
+    <loc>http://localhost:1313/blog/2014/06/sugru-hack-an-auxiliary-cord-holder/</loc>
     <lastmod>2014-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2014/03/helpful-plugins-for-migrating-wordpress-from-localhost-to-production/</loc>
+    <loc>http://localhost:1313/blog/2014/03/helpful-plugins-for-migrating-wordpress-from-localhost-to-production/</loc>
     <lastmod>2014-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2013/10/bracket-and-stand-for-the-ipad-mini/</loc>
+    <loc>http://localhost:1313/blog/2013/10/bracket-and-stand-for-the-ipad-mini/</loc>
     <lastmod>2013-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2013/09/improving-solidoodle-prints/</loc>
+    <loc>http://localhost:1313/blog/2013/09/improving-solidoodle-prints/</loc>
     <lastmod>2013-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2013/09/one-printer-fixes-another/</loc>
+    <loc>http://localhost:1313/blog/2013/09/one-printer-fixes-another/</loc>
     <lastmod>2013-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2013/07/my-timer-web-app/</loc>
+    <loc>http://localhost:1313/blog/2013/07/my-timer-web-app/</loc>
     <lastmod>2013-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2013/07/how-to-build-a-selectable-power-source-part-1/</loc>
+    <loc>http://localhost:1313/blog/2013/07/how-to-build-a-selectable-power-source-part-1/</loc>
     <lastmod>2013-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2013/05/the-importance-of-convergence/</loc>
+    <loc>http://localhost:1313/blog/2013/05/the-importance-of-convergence/</loc>
     <lastmod>2013-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/12/how-to-reset-a-pcs-master-password/</loc>
+    <loc>http://localhost:1313/blog/2012/12/how-to-reset-a-pcs-master-password/</loc>
     <lastmod>2012-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/12/a-very-temporary-raspberry-pi-case-lecreate/</loc>
+    <loc>http://localhost:1313/blog/2012/12/a-very-temporary-raspberry-pi-case-lecreate/</loc>
     <lastmod>2012-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/06/micro-adjustment-on-canon-7d/</loc>
+    <loc>http://localhost:1313/blog/2012/06/micro-adjustment-on-canon-7d/</loc>
     <lastmod>2012-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/05/transferring-domains-with-google-apps-and-godaddy/</loc>
+    <loc>http://localhost:1313/blog/2012/05/transferring-domains-with-google-apps-and-godaddy/</loc>
     <lastmod>2012-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/03/tinkercad-and-makerbot-chess-contest/</loc>
+    <loc>http://localhost:1313/blog/2012/03/tinkercad-and-makerbot-chess-contest/</loc>
     <lastmod>2012-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/02/desk-clock-rendering/</loc>
+    <loc>http://localhost:1313/blog/2012/02/desk-clock-rendering/</loc>
     <lastmod>2012-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/02/how-to-make-a-magnetic-chalkboard/</loc>
+    <loc>http://localhost:1313/blog/2012/02/how-to-make-a-magnetic-chalkboard/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/02/desk-clock/</loc>
+    <loc>http://localhost:1313/blog/2012/02/desk-clock/</loc>
     <lastmod>2012-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2012/01/my-hello-world/</loc>
+    <loc>http://localhost:1313/blog/2012/01/my-hello-world/</loc>
     <lastmod>2012-01-21T00:00:00+00:00</lastmod>
   </url>
   
