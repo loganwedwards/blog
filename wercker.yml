@@ -1,6 +1,4 @@
-box: debian
+box: wercker/golang@1.4.0
 build:
     steps:
-      - arjen/hugo-build:
-          version: 1.6.1
-          theme: hugo-cactus-theme
+      - arjen/hugo-build@1.6.1
