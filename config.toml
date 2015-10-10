@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://blog.loganwedwards.com.s3-website-us-east-1.amazonaws.com/"
+baseurl = "http://blog.loganwedwards.com"
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
 theme = "hugo-cactus-theme"
@@ -9,7 +9,7 @@ theme = "hugo-cactus-theme"
 	description = "Describe your website"
 	bio = "Digerati"
 	# Enter optionally your twitter account
-	twitter = "https://twitter.com/loganwedwards"
+	twitter = "loganwedwards"
 	# Disable comments by leaving disqusShortname empty
 	disqusShortname = ""
 	enableRSS = true
@@ -33,3 +33,6 @@ theme = "hugo-cactus-theme"
 	# 404 page
 	title404 = ""
 	subtitle404 = ""
+
+[permalinks]
+	post = "/:year/:month/:title"
