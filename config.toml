@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://loganwedwards.com/blog"
+baseurl = "http://blog.loganwedwards.com.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
 theme = "hugo-cactus-theme"
