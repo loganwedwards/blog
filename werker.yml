@@ -1,0 +1,6 @@
+box: debian
+build:
+    steps:
+      - arjen/hugo-build:
+          version: 1.6.1
+          theme: hugo-cactus-theme
