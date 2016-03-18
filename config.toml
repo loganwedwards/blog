@@ -17,8 +17,8 @@ theme = "hugo-cactus-theme"
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
-	about = "/about"
+	home = "Home"
+	about = "About"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
