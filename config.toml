@@ -1,17 +1,16 @@
 # Site settings
 baseurl = "http://blog.loganwedwards.com/"
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
+title = "Logan Edwards"
 theme = "hugo-cactus-theme"
 
 [params]
 	name = "Logan Edwards"
-	description = "Describe your website"
-	bio = "Digerati"
+	description = "Occassional updates on my interests"
+	bio = "Engineer and Maker (time permitting)"
 	# Enter optionally your twitter account
 	twitter = "loganwedwards"
 	# Disable comments by leaving disqusShortname empty
-	disqusShortname = ""
 	enableRSS = true
 
 	# The variables below are optionally too and can be used to
@@ -19,7 +18,7 @@ theme = "hugo-cactus-theme"
 
 	# Navigation links
 	home = ""
-	about = ""
+	about = "/about"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
@@ -27,12 +26,12 @@ theme = "hugo-cactus-theme"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an engineer, family man and co-founder of Fount."
+	aboutAuthor = "Logan has a rich history in engineering beginning with the Lego obsession as a youngling. He went to school for mechanical engineering and found a love for design and mechatronics. He later discovered that software development provided a rapid means to delivering a product and is continuing his passion for meshing his atom and bit curiousities. Logan currently spends his time between Fount, his family and working on his master's degree."
 	tweet = ""
 	share = ""
 	# 404 page
-	title404 = ""
-	subtitle404 = ""
+	title404 = "You can go about your business"
+	subtitle404 = "Move along, move along."
 
 [permalinks]
 	post = "/:year/:month/:title"
