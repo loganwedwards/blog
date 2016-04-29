@@ -12,9 +12,12 @@ theme = "hugo-cactus-theme"
 	twitter = "loganwedwards"
 	# Disable comments by leaving disqusShortname empty
 	enableRSS = true
-
+	RSSLink = "/index.xml"
 	# The variables below are optionally too and can be used to
 	# translate or customize each string of the theme.
+
+	# Tracking
+	googleAnalytics = "UA-77124828-1"
 
 	# Navigation links
 	home = "Home"
@@ -26,7 +29,7 @@ theme = "hugo-cactus-theme"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "Logan has a rich history in engineering beginning with the Lego obsession as a youngling. He went to school for mechanical engineering and found a love for design and mechatronics. He later discovered that software development provided a rapid means to delivering a product and is continuing his passion for meshing his atom and bit curiousities. Logan currently spends his time between Fount, his family and working on his master's degree."
+	aboutAuthor = "Logan has a rich history in engineering beginning with the Lego obsession as a youngling. He went to school for mechanical engineering and found a love for design and mechatronics. He later discovered that software development provided a rapid means to delivering a product and is continuing his passion for meshing his atom and bit curiousities. Logan currently spends his time between Fount, his family and continuously learning."
 	tweet = ""
 	share = ""
 	# 404 page

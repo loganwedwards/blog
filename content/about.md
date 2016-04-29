@@ -4,6 +4,7 @@ author: logan
 layout: single
 date: 2016-03-17
 url: /about
+RSSLink: /index.xml
 categories:
   - About
 ---
