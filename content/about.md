@@ -15,6 +15,8 @@ There's a great chance that much of the content here may not relate as I have in
 
 Professionally, I started my career as a mechanical engineer (ok, technically an Engineer in Training, EIT) designing and optimizing manufacturing equipment and processes in the nuclear industry. Being a geek and wanting a shorter iteration cycle for building and delivering products, I made a career step into software development, but not too hastily to forget the attributes of mechanical engineering that I love (actual engineering principles, 3d modeling and design, mechatronic interfacing, prototyping and desktop manufacturing). I worked for 1.5 years with a connected-car startup and learned a tremendous amount about the industry and made some near and dear friends who would eventually become my new business partners. Having the right level of mojo, four of us started [Fount](http://www.fountstudio.com), a digital product design and development collective. Fount focuses on building digital (I'd love to include physical one day) assets for our clients and build meaningful relationships with them.
 
+[Le Create](http://le-create.com) is my personal brand which offers consulting and contracting services for mechanical design, hardware prototyping and aerial photography.
+
 I'm very blessed to have a wonderful family surrounding me: a wife beyond reproach and 2 beautiful children, not to mention my immediate family and inlaws.
 
 Thanks for stopping by and I hope you find something positive to takeaway here.

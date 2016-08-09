@@ -43,12 +43,15 @@ $ sudo gedit /etc/fstab
 This opens the file for editing. Follow this pattern to get the server setup:
 
 ```
-//server.local /mnt/shares/server cifs username=mickey,password=mouse,iocharset=utf8,sec=ntlm 0 0
+$ //server.local/directory /mnt/shares/server cifs username=user,password=pass,iocharset=utf8,sec=ntlm 0 0
 ```
 
-Of course, replace the username and password with whatever you are using.Some shares won&#8217;t require them, so they can be omitted. Look [here][2] for further detail. Also, some servers may prefer NFS, NTFS or SMB, so read up on their native file system.
+Of course, replace the server, username and password with whatever you are using. Some shares won&#8217;t require them, so they can be omitted. Look [here][2] for further detail. Also, some servers may prefer NFS, NTFS or SMB, so read up on their native file system. The `sec=ntlm` bit specifies the security protocol for the passwords, though some users reported this option ensuring that the mount does not happen until networking is ready.
 
-now, to mount the share type:
+### UPDATE
+I went through this process a second time with my hardware and kept getting a `mount.cifs(8)` error. I read through the documentation thinking the API changed, but eventually found out through `dmesg` logs that I had in invalided `devname` (or host server name). I was trying to mount the root of the drive, but that was a networking faux pas for my setup. Instead, I had to mount a top-level directory.
+
+Now, to mount the share type:
 
 ```
 $ sudo mount -a
