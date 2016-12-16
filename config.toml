@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://blog.loganwedwards.com/"
+baseurl = "https://blog.loganwedwards.com/"
 languageCode = "en-us"
 title = "Logan Edwards"
 theme = "hugo-cactus-theme"
