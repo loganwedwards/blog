@@ -14,9 +14,9 @@
         </article>
         <footer id="post-meta" class="clearfix">
             {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
-                    <img class="avatar" src="{{ .Site.BaseURL }}img/profile.jpg">
+                    <!-- <img class="avatar" src="{{ .Site.BaseURL }}img/profile.jpg"> -->
                     <div>
-                        <span class="dark">{{ .Site.Params.name }}</span>
+                        <span class="dark heading">{{ .Site.Params.name }}</span>
                         <span>{{ .Site.Params.aboutAuthor }}</span>
                     </div>
                 {{ with .Site.Params.twitter }}</a>{{ end }}
